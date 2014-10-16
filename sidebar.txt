@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bqt:home|Door43 (bqt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bqt|d43-bqt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bqt/archive/master.zip|d43-bqt.zip]]
+
+**Recent Changes**
+{{changes>ns = bqt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bqt|Ethnologue data]]
+
